@@ -3,4 +3,6 @@ Description - Given economic, demographic and topographic data predict the wealt
 
 Competition Link - https://zindi.africa/competitions/umojahack-2022-practice-challenge
 
-This is a practice challenge and getting to know different class of regressors like LightGBM Regressor fascinates me
+This is a practice challenge and getting to know different class of regressors like LightGBM Regressor fascinates me.
+
+PS - Don't mind the insane feature engineering :P
